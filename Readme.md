@@ -8,9 +8,9 @@
 Watch the complete implementation walkthrough:
 ▶️ View Implementation Demo
 Alternative if hosted online:
-markdown[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://your-video-link-here.com)
+-[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1d2Y5tktyJKaX-0ZGt7L33P_Fp0hjksdv/view?usp=sharing)
 Or embed directly (if viewing on GitHub/supporting platform):
-markdownhttps://user-images.githubusercontent.com/your-video-file.mp4
+- "https://drive.google.com/file/d/1d2Y5tktyJKaX-0ZGt7L33P_Fp0hjksdv/view?usp=sharing"
 
 ## Table of Contents
 
@@ -476,4 +476,5 @@ For questions or issues:
 
 
 This project is for educational purposes only. All scraped content remains property of original publishers. No commercial use permitted.
+
 
