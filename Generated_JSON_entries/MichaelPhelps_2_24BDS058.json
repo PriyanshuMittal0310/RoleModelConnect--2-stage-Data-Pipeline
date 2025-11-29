@@ -1,0 +1,23 @@
+{
+  "Role_Model_Name": "Michael Phelps",
+  "Role_Model_Context": "American Olympic swimmer and global mental-health advocate.",
+  "Situation_Faced": "He battled severe depression and suicidal thoughts following the 2012 Olympics.",
+  "Challenge_Narrative": "Phelps described recurring depressive episodes after major competitions, culminating in an all-time low where he isolated himself for days, barely eating or sleeping. The emotional crash intensified because he had spent years suppressing feelings and self-medicating. He reached a point where he no longer wanted to live.",
+  "Mental_Health_Themes": [
+    "depression",
+    "suicidal_ideation",
+    "burnout",
+    "stress_management"
+  ],
+  "Coping_Strategies_Used": [
+    "seeking treatment",
+    "emotional expression",
+    "therapy work",
+    "stress-management practices"
+  ],
+  "Key_Action_Taken": "He entered professional treatment and began openly addressing his emotions.",
+  "Key_Quote_or_Insight": "“I didn’t want to be alive anymore.”",
+  "Summary_Psychological": "His story emphasizes that prolonged emotional suppression can escalate into crisis. Speaking openly about feelings can drastically reduce psychological burden and enable recovery. Help-seeking is a powerful turning point in healing from depression.",
+  "Outcome_Resolution": "He recovered with treatment and now uses his platform to advocate for mental-health awareness.",
+  "Source_Reference": "Michael_Phelps_edition_source_2.txt"
+}
