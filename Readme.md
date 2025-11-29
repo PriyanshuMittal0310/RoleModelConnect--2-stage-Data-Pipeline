@@ -4,6 +4,14 @@
 
 **RoleModelConnect** is a comprehensive data pipeline project that builds a knowledge base of inspirational, real-world stories from well-known public figures who have navigated significant mental, emotional, or ethical challenges. The project demonstrates end-to-end data engineering skills through a two-phase approach: automated data collection and structured data curation.
 
+📹 Demo Video
+Watch the complete implementation walkthrough:
+▶️ View Implementation Demo
+Alternative if hosted online:
+markdown[![Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://your-video-link-here.com)
+Or embed directly (if viewing on GitHub/supporting platform):
+markdownhttps://user-images.githubusercontent.com/your-video-file.mp4
+
 ## Table of Contents
 
 - [Project Purpose](#project-purpose)
@@ -468,3 +476,4 @@ For questions or issues:
 
 
 This project is for educational purposes only. All scraped content remains property of original publishers. No commercial use permitted.
+
