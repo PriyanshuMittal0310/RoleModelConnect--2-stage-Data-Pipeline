@@ -31,7 +31,7 @@ This project creates a validated, traceable dataset documenting how public figur
 ## Pipeline Architecture
 
 ### Phase 1: Data Collection (Automated)
-**Script**: `Data_Collection_[YourRollNumber].ipynb`
+**Script**: `Data_Collection_24BDS058.ipynb`
 
 The collection phase:
 1. Accepts a role model's name as input
@@ -83,7 +83,7 @@ pip install -r requirements.txt
 #### Option 1: Jupyter Notebook
 ```bash
 # Open the notebook
-jupyter notebook Data_Collection_[YourRollNumber].ipynb
+jupyter notebook Data_Collection_24BDS058.ipynb
 
 # Follow the instructions in the notebook cells
 ```
@@ -91,7 +91,7 @@ jupyter notebook Data_Collection_[YourRollNumber].ipynb
 #### Option 2: Python Script
 ```python
 # Run the collection script
-python Data_Collection_[YourRollNumber].py
+python Data_Collection_24BDS058.py
 
 # The script will prompt you for:
 # 1. Role Model Name (e.g., "Selena Gomez")
@@ -119,7 +119,7 @@ seed_urls = [
 1. Open raw text files from `/Raw_Data/`
 2. Read through content and identify distinct challenges
 3. Extract relevant information for each JSON field
-4. Create JSON files following the naming convention: `RoleModelName_StoryNumber_[YourRollNumber].json`
+4. Create JSON files following the naming convention: `RoleModelName_StoryNumber_24BDS058.json`
 
 #### Semi-Automated Approach (Recommended)
 ```python
@@ -137,30 +137,30 @@ python Curation_Helper.py
 
 ## Role Models & Sources
 
-### Role Model 1: [Virat Kohli]
+### Role Model 1: Virat Kohli
 
 **Sources**:
-1. **Source 1**: ["https://www.hindustantimes.com/cricket/virat-kohli-says-he-went-through-depression-during-england-tour-in-2014-in-a-podcast-with-mark-nicholas-101613719225354.html"]
+1. **Source 1**: "https://www.hindustantimes.com/cricket/virat-kohli-says-he-went-through-depression-during-england-tour-in-2014-in-a-podcast-with-mark-nicholas-101613719225354.html"
    - **Type**: Interview
    - **Publisher**: Hindustan Times
    - **File**: `Virat_Kohli_Source_1.txt`
    
-2. **Source 2**: ["https://www.icc-cricket.com/news/virat-kohli-opens-up-about-his-struggles-with-mental-health"]
+2. **Source 2**: "https://www.icc-cricket.com/news/virat-kohli-opens-up-about-his-struggles-with-mental-health"
    - **Type**: Article
    - **Publisher**: International Cricket Council (ICC)
    - **File**: `Virat_Kohli_Source_2.txt`
 
-### Role Model 2: [Michael Phelps]
+### Role Model 2: Michael Phelps
 
 **Sources**:
-1. **Source 1**: ["https://www.additudemag.com/michael-phelps-adhd-advice-from-the-olympians-mom/"]
+1. **Source 1**: "https://www.additudemag.com/michael-phelps-adhd-advice-from-the-olympians-mom/"
    - **Type**: Interview
-   - **Publisher**: ["www.additudemag.com"]
+   - **Publisher**: "www.additudemag.com"
    - **File**: `Michael_Phelps_Source_1.txt`
 
-2. **Source 2**: ["https://edition.cnn.com/2018/01/19/health/michael-phelps-depression/index.html?sr=twCNN011918michael-phelps-depression0534PMVODtop/"]
+2. **Source 2**: "https://edition.cnn.com/2018/01/19/health/michael-phelps-depression/index.html?sr=twCNN011918michael-phelps-depression0534PMVODtop/"
    - **Type**: Article
-   - **Publisher**: [CNN]
+   - **Publisher**: CNN
    - **File**: `Michael_Phelps_Source_2.txt`
 
 ### Directory Layout
@@ -373,7 +373,7 @@ USER_AGENT = "RoleModelConnect-Educational-Scraper/1.0"
 
 ### File Descriptions
 
-#### `Data_Collection_[YourRollNumber].ipynb`
+#### `Data_Collection_24BDS058.ipynb`
 Main scraping script that automates Phase 1. Contains:
 - URL validation and robots.txt checking
 - HTTP request handling with proper headers
@@ -402,7 +402,7 @@ Contains all structured JSON files:
 - Traceable to raw data files
 - Minimum 5 entries total
 
-#### `Implementation_[YourRollNumber].mp4`
+#### `Implementation_24BDS058.mp4`
 Video demonstration showing:
 - Phase 1: Running scraper and generating raw files
 - Phase 2: Raw text to JSON curation process
@@ -447,23 +447,24 @@ Each JSON file must have:
 ## Credits & Acknowledgments
 
 **Project**: RoleModelConnect - Educational Data Pipeline
-**Course**: [Course Name]
-**Institution**: [Institution Name]
+**Course**: Foundation of Machine Learning and Generative Learning
+**Institution**: Indian Institute of Information Technology, Dharwad
 **Submission Date**: 30/11/2025
 
-**Developed by**: [Your Name]
-**Roll Number**: [YourRollNumber]
+**Developed by**: Priyanshu Mittal
+**Roll Number**: 24BDS058
 
 ---
 
 ## Contact & Support
 
 For questions or issues:
-- **Email**: [Your Email]
-- **Roll Number**: [YourRollNumber]
+- **Email**: 24bds058@iiitdwd.ac.in
+- **Roll Number**: 24BDS058
 
 ---
 
 ## License
+
 
 This project is for educational purposes only. All scraped content remains property of original publishers. No commercial use permitted.
